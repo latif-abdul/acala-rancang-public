@@ -1,5 +1,2 @@
-#SEMANGAT TIP!!
-#ASSSEEEMMMMM
-#AKU PADAMU!
-#CAHYOO LATIPPPP!
-#HEEEEELLPPPPP MEEEEEEE REEEEEEKKKKKK!!!!!
+# Kelompok 6
+## Perancangan Web Pameran Desain Interior Acala Rancang
